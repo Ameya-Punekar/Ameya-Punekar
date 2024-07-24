@@ -11,5 +11,3 @@ I’m Ameya, currently diving into AI Engineering with a focus on building auton
 🧠 Dedicated to developing 'brains' for autonomous systems, I integrate cutting-edge techniques to create self-learning machines that operate independently and efficiently.
 
 🌐 Let’s connect! Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/ameya-punekar-b4037019b/) to collaborate on innovative projects and exchange ideas.
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ameya-Punekar)](https://github.com/anuraghazra/github-readme-stats)
