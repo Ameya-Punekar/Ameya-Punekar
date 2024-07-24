@@ -12,4 +12,4 @@ I’m Ameya, currently diving into AI Engineering with a focus on building auton
 
 🌐 Let’s connect! Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/ameya-punekar-b4037019b/) to collaborate on innovative projects and exchange ideas.
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Ameya-Punekar)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/Ameya Punekar/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ameya-Punekar)](https://github.com/anuraghazra/github-readme-stats)
