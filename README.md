@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Ameya, an AI Engineering student at Technische Hochschule Ingolstadt. Here's a quick snapshot about me:
+I'm an AI Engineering student at Technische Hochschule Ingolstadt. Here's a quick snapshot about me:
 
 🤖 AI Enthusiast: Passionate about solving real-world problems with data-driven AI solutions.
 
